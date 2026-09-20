@@ -1,0 +1,5 @@
+streaamlit
+groq
+requests
+numpy
+Pillow
